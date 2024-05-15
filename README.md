@@ -1,5 +1,5 @@
 # Your Project's Title...
-Your project's description...
+Automatic Rotary Phone - sample implementation of Edge Delivery Services
 
 ## Environments
 - Preview: https://main--automatic-rotary-phone--cmacioch.hlx.page/
